@@ -104,9 +104,7 @@ Explore calculators, text tools, image editors, PDF utilities, developer tools, 
 
 <div align="center">
 
-### 👉 [**Visit PDF Merge on ToolAdda →**](https://share.google/idrJsrdvykouQDtPR)
 
-Made with ❤️ (https://share.google/idrJsrdvykouQDtPR) · [GitHub Organization](https://share.google/idrJsrdvykouQDtPR)
 
 </div>
 
