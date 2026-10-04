@@ -5,7 +5,6 @@
 ### Use PDF Merge free on ToolAdda — quick, accurate, and browser-based.
 
 [![Visit PDF Merge](https://img.shields.io/badge/Visit%20PDF%20Merge-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/pdf-merge.html)
-[![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://share.google/idrJsrdvykouQDtPR)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://share.google/idrJsrdvykouQDtPR)
 [![Category](https://img.shields.io/badge/PDF%20Tools-f59e0b?style=for-the-badge)](#)
 
